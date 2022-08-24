@@ -1,13 +1,14 @@
-### Hi there, I'm Rumela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+## Hi there, I'm Rumela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-I'm a Full-Stack Web-Developer and i enjoy learning anything that facinates me.
+I'm a Software Engineer and i enjoy learning things that facinate me.
   
 ## About me 📝
-- 🔭 I’m currently working on designing responsive websites.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning web development technologies like ```.react```, ```.jS```,```.jQuery```,```bootstrap```,```.git```, etc.
+- 🔭 I’m currently working for DXC Technology as a system administrator.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m aware of web development technologies like ```.react```, ```.jS```,```.jQuery```,```bootstrap```,```.git```, etc.
 - 👯 I’m looking forward to collaborate on anything if i get to learn new stuff. 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I watch a lot of documentaries about prisons so i happen to know a great deal about them and i speak spanish, italian and a little bit of arabic.
+- 🥱 In my free time i watch obscure documentaries on murder mysteries or sing and play the ukulele.<img src="https://media.giphy.com/media/GIvrM0LQTTGKYicSVT/giphy.gif" width="30">
+- ⚡ Fun fact: I'm a polyglot and i speak Spanish, Portuguese, Arabic, Italian, Norwegian and I've a familiarity with palmistry and tarot.<img src="https://media.giphy.com/media/kUzZPC32NH7qteJp3G/giphy.gif" width="28">
 
 ## Connect with me 🤙
 
@@ -39,9 +40,7 @@ I'm a Full-Stack Web-Developer and i enjoy learning anything that facinates me.
 
 <p>
 
-<a align= "center" href="https://github.com/rumela3011">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=rumela3011&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="" width="350" src="https://media.giphy.com/media/5xaOcLSjCuroxKfZ4yI/giphy.gif"/> </a>
+
   
 </p>
 
